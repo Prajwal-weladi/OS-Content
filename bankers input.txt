@@ -1,0 +1,46 @@
+Enter the number of processes: 3
+Enter the number of resources: 4
+
+Enter the maximum resources required by each process:
+For process 1:
+Resource 1: 7
+Resource 2: 5
+Resource 3: 3
+Resource 4: 2
+
+For process 2:
+Resource 1: 3
+Resource 2: 2
+Resource 3: 2
+Resource 4: 2
+
+For process 3:
+Resource 1: 9
+Resource 2: 0
+Resource 3: 2
+Resource 4: 2
+
+Enter the allocated resources for each process:
+For process 1:
+Resource 1: 0
+Resource 2: 1
+Resource 3: 0
+Resource 4: 0
+
+For process 2:
+Resource 1: 2
+Resource 2: 0
+Resource 3: 0
+Resource 4: 0
+
+For process 3:
+Resource 1: 3
+Resource 2: 0
+Resource 3: 2
+Resource 4: 2
+
+Enter the available resources:
+Resource 1: 3
+Resource 2: 3
+Resource 3: 2
+Resource 4: 1
